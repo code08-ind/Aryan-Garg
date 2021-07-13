@@ -1,7 +1,5 @@
 # Aryan-Garg
 
-Follow my website below ->
-
 ### What The Project Is About?
 It is a Personal Portfolio created with The help of HTML, CSS, JAVASCRIPT, jQUERY and AOS Libraray of JAVASCRIPT Which creates animations on scrolling.
 
